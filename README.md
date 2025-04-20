@@ -45,13 +45,13 @@ A selection of foundational and cutting-edge papers I've explored:
 ## 🛠️ **Projects Built**  
 
 ### [GenerativeAI Agents](https://github.com/NirDiamant/GenAI_Agents)  
-An open framework to evaluate, compare, and scale autonomous agents using **LangGraph** and **Autogen**.  
+An open framework to evaluate, compare, and scale autonomous agents using **LangGraph** and **Autogen** by Nir Diamant.  
 
 ### [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)  
-A collection of implementations and techniques for **Retrieval-Augmented Generation (RAG)**.  
+A collection of implementations and techniques for **Retrieval-Augmented Generation (RAG)** by Nir Diamant.  
 
 ### [Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering)  
-A practical repository for experimenting with **prompt engineering** patterns and best practices.  
+A practical repository by Nir Diamant for experimenting with **prompt engineering** patterns and best practices.  
 
 ### [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) (by [Sebastian Raschka](https://github.com/rasbt))  
 A hands-on guide for building large language models from scratch.  
