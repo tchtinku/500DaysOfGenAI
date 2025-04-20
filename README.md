@@ -72,7 +72,7 @@ Evaluates resumes using LLMs and provides actionable suggestions. Built with **S
 - **Day 365** — Book Summary: *What is ChatGPT Doing?*  
 - **Day 400** — Built RAG Bot  
 - **Day 475** — Comparing Agents with LangGraph  
-- **Day 498** — Reflecting on the Journey  
+- **Day 496** — Reflecting on the Journey  
 
 ---
 
