@@ -18,17 +18,17 @@ Welcome to my 500-day journey exploring **Generative AI**! This repository docum
 - *Real World AI*  
 
 ### **Large Language Models & Generative AI**  
-- *Build a Large Language Model (From Scratch)**  
+- *Build a Large Language Model (From Scratch)*  
 - *Building LLMs for Production*  
 - *Deep Learning for Vision Systems*  
 - *What is ChatGPT Doing... and Why Does It Work?*  
 - *Hands-On Large Language Models*  
-- *LLM Engineer’s Handbook*  
+- *LLM Engineer's Handbook*  
 
 ---
 
 ## 🤠 **Research Papers**  
-A selection of foundational and cutting-edge papers I’ve explored:  
+A selection of foundational and cutting-edge papers I've explored:  
 
 | Title | Link |  
 |-------|------|  
@@ -44,17 +44,17 @@ A selection of foundational and cutting-edge papers I’ve explored:
 
 ## 🛠️ **Projects Built**  
 
-### **GenerativeAI_Agents**  
+### [GenerativeAI Agents](https://github.com/NirDiamant/GenAI_Agents)  
 An open framework to evaluate, compare, and scale autonomous agents using **LangGraph** and **Autogen**.  
 
-### **RAG Techniques**  
-A collection of implementations and techniques for **Retrieval-Augmented Generation**.  
+### [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques)  
+A collection of implementations and techniques for **Retrieval-Augmented Generation (RAG)**.  
 
-### **Prompt Engineering**  
+### [Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering)  
 A practical repository for experimenting with **prompt engineering** patterns and best practices.  
 
-### **LLMs from Scratch**  
-A hands-on guide for building large language models from scratch — by *Sebastian Raschka*.  
+### [LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch) (by [Sebastian Raschka](https://github.com/rasbt))  
+A hands-on guide for building large language models from scratch.  
 
 ### **Sentiment-Aware Banking Assistant**  
 Next.js + LangChain-powered customer assistant for the finance sector.  
@@ -76,7 +76,7 @@ Evaluates resumes using LLMs and provides actionable suggestions. Built with **S
 
 ---
 
-## 🔮 **What’s Next**  
+## 🔮 **What's Next**  
 - **📚 Open-source GenAI learning roadmap** (coming soon)  
 - **🔗 Collaborative GitHub repo** for GenAI learners:  
   - **Beginner Project Ideas**: Curated simple projects for LangChain/LLM APIs.  
@@ -88,8 +88,8 @@ Evaluates resumes using LLMs and provides actionable suggestions. Built with **S
 ---
 
 ## 👋🏼 **Connect With Me**  
-If you’re into **LLMs, autonomous agents, or real-world GenAI apps** — let’s connect!  
+If you're into **LLMs, autonomous agents, or real-world GenAI apps** — let's connect!  
 - 🌐 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 📨 DM for collaborations, feedback, or cool ideas!  
 
-⭐ **If you found this helpful or inspiring**, star the repo and follow the journey!  
+⭐ **If you found this helpful or inspiring**, star the repo and follow the journey! 
