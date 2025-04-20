@@ -68,10 +68,10 @@ Evaluates resumes using LLMs and provides actionable suggestions. Built with **S
 ---
 
 ## 🗓️ **LinkedIn Posts Timeline**  
-- **Day 300** — Understanding AutoGPT  
-- **Day 365** — Book Summary: *What is ChatGPT Doing?*  
-- **Day 400** — Built RAG Bot  
-- **Day 475** — Comparing Agents with LangGraph  
+- **Day 300** — Understanding RAG Techniques  
+- **Day 365** — Explored use cases of Langgraph for implementing Autogen agents
+- **Day 400** — Explored GPT Style LLM Classifier 
+- **Day 475** — LLMs from Scratch
 - **Day 496** — Reflecting on the Journey  
 
 ---
